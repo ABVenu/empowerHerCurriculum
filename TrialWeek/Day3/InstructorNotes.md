@@ -404,6 +404,7 @@ This level ensures:
 * **Goal:** 60–70 WPM, 95%+ accuracy
 * **Time:** 15–20 mins/day (maintenance)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vXsutlz0GIQ?si=QXc_aPwmhh5nrAkN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 
