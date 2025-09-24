@@ -44,8 +44,8 @@ This is why **Google Apps** are considered *must-have skills* for every working 
 
 ## 1. Google Drive – Your Online Hard Disk
 
-![Google Drive](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/458dbd3f-9e8c-4b55-b73f-9a2d344dffec/TClAMjwzWdGliILh.png)
 
+<image src="https://coding-platform.s3.amazonaws.com/dev/lms/tickets/458dbd3f-9e8c-4b55-b73f-9a2d344dffec/TClAMjwzWdGliILh.png" width="200px" />
 Think of Google Drive as your **personal hard disk in the cloud**.
 
 * Every Google account comes with **15 GB free storage space**.
@@ -96,8 +96,10 @@ Google Docs is like Microsoft Word but **better in many ways**:
    * Then, turn on **“Anyone with link can view”** sharing.
    * Ask them to refresh and check again.
    * Lesson: Whenever you submit an assignment, **keep sharing ON**, or else it’s as good as *not submitted*. You may even get **zero marks**.
-![Google Doc Share 1](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/85661a31-a572-423f-9969-b143da3eb6f4/SUnCJiybvAZPQhBK.png)
-![Google Doc Sharing 2](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/8ffdf763-2a6c-48ae-840d-cc20c572c298/ylEy0AbERKfZy1vp.png)
+<image src="https://coding-platform.s3.amazonaws.com/dev/lms/tickets/85661a31-a572-423f-9969-b143da3eb6f4/SUnCJiybvAZPQhBK.png" width="450px" />
+---
+<image src="https://coding-platform.s3.amazonaws.com/dev/lms/tickets/8ffdf763-2a6c-48ae-840d-cc20c572c298/ylEy0AbERKfZy1vp.png" width="350px"  />
+
 
 
 3. Show how to **download** the document in multiple formats: `.txt`, `.docx`, `.pdf`.
@@ -164,6 +166,8 @@ Google Slides is Google’s version of PowerPoint.
 ## 5. Google Calendar – The Digital Task Manager
 ![Google Calendar](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/0b96c0db-9a22-4eaf-9630-26cb96a2273f/011XKXuxEzo2dJQt.png)
 
+<image src="https://coding-platform.s3.amazonaws.com/dev/lms/tickets/8ffdf763-2a6c-48ae-840d-cc20c572c298/ylEy0AbERKfZy1vp.png" width="350px"  />
+
 
 Google Calendar is one of the most **underestimated but powerful tools**.
 
@@ -171,7 +175,9 @@ Google Calendar is one of the most **underestimated but powerful tools**.
 * Events can be **recurring (daily/weekly)** or one-time.
 * Can send reminders and notifications.
 * Used by professionals to manage tasks and track deadlines.
-![Typical Google Calendar](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/0628c604-9c09-464d-8a28-4464d01906cf/PnqQdhAVGdExab2y.png)
+
+<image src="https://coding-platform.s3.amazonaws.com/dev/lms/tickets/5290f848-951f-49e1-874b-f95bb5515fc1/GKGUFNsptKnaUQKR.png" width="850px"/>
+
 
 **Demo:**
 
@@ -188,7 +194,7 @@ Google Calendar is one of the most **underestimated but powerful tools**.
 
 ## 6. Google Scholar – Academic Research
 
-![Google Scholar](https://scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png)
+<image src="https://scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png" width="200px" />
 Unlike normal Google search, **Google Scholar** focuses only on academic content:
 
 * Research papers
@@ -291,7 +297,8 @@ Below is a quick guide to the basic syntax of Markdown. You’ll use these rules
 ## 8. Touch Typing – Speed & Confidence
 
 Touch typing is a **method of typing without looking at the keyboard**. It improves both typing speed and accuracy over time.
-![Intro To Typing](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/0b1f618c-1cf3-4fb3-bfb7-ef601d311a89/CloVOBvbSOsPQyHP.png)
+
+<image src="https://coding-platform.s3.amazonaws.com/dev/lms/tickets/0b1f618c-1cf3-4fb3-bfb7-ef601d311a89/CloVOBvbSOsPQyHP.png" width="550px"  />
 
 #### **Why Learn Touch Typing?**
 
@@ -309,8 +316,8 @@ Touch typing is a **method of typing without looking at the keyboard**. It impro
    - Right hand: J, K, L, ;
    - Thumbs rest on the **spacebar**.
 
-![Ideal Placement Of Fingers](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/de53bd2b-a52a-4a28-ae64-6011ed8ddfeb/a2zkAuIdX3qm0Al2.png)
 
+<image src="https://coding-platform.s3.amazonaws.com/dev/lms/tickets/de53bd2b-a52a-4a28-ae64-6011ed8ddfeb/a2zkAuIdX3qm0Al2.png" width="650px" />
 
 2. **Posture and Ergonomics**
 
@@ -322,7 +329,9 @@ Touch typing is a **method of typing without looking at the keyboard**. It impro
    - Start slow: Focus on accuracy first, then work on increasing speed.
    - Avoid looking at the keyboard: If you make mistakes, try to correct them without looking.
    - Practice every day for a few minutes to build muscle memory.
-![Ideal Placement Of Fingers](https://coding-platform.s3.amazonaws.com/dev/lms/tickets/fee52013-0b50-49f1-b1d9-f42a87274f20/DODnirMffPSQ2sCC.png)
+
+<image src="https://coding-platform.s3.amazonaws.com/dev/lms/tickets/fee52013-0b50-49f1-b1d9-f42a87274f20/DODnirMffPSQ2sCC.png" width="650px" />
+
 ### **Hands-On Typing Practice**
 
 1. Go to [Ratatype](https://www.ratatype.com/) or [Monkey Type](https://monkeytype.com/) or any other typing website.
