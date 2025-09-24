@@ -111,6 +111,7 @@ Google Docs is like Microsoft Word but **better in many ways**:
 **Student Activity (3 mins):**
 
 * Create a one-page document titled **“My Dream Role”** with a header and short content.
+* Ask them to share the link in the chat
 
 ---
 
@@ -125,7 +126,7 @@ Google Sheets is the online alternative to Excel.
 💡 **Daily Life Use Case:** Expense tracker, attendance, to-do lists, budget planning.
 
 **Demo:**
-
+* Open a sheet, demonstrate that a cell can contain data, has power to calculate, show addition by using three cell
 * Create a sheet with these columns: **Sl. No | Description | Amount | Total**
 * Add 10–15 rows of sample data.
 * Show how to calculate totals with formulas (`=SUM()`).
@@ -134,6 +135,7 @@ Google Sheets is the online alternative to Excel.
 **Student Activity (5 mins):**
 
 * Make your own **5-row expense tracker** in Sheets.
+* Ask them to share the link in the chat
 
 ---
 
@@ -155,6 +157,7 @@ Google Slides is Google’s version of PowerPoint.
 **Student Activity (2 mins):**
 
 * Create a single slide presentation with a quote or personal goal.
+* Ask them to share the link in the chat
 
 ---
 
@@ -179,6 +182,7 @@ Google Calendar is one of the most **underestimated but powerful tools**.
 **Student Activity (2 mins):**
 
 * Add a calendar event for tomorrow’s session.
+* Ask them to share the screenshot in the chat
 
 ---
 
