@@ -39,7 +39,7 @@ JavaScript is a lightweight, interpreted programming language primarily used to 
 
 ### **2. JavaScript Syntax Essentials**
 
-#### (Demonstration using ![One Complier](https://onecompiler.com/javascript) link for JS for now, show them creating different files for day to day activities also sharing access to be public)
+#### (Demonstration using [One Complier](https://onecompiler.com/javascript) link for JS for now, show them creating different files for day to day activities also sharing access to be public)
 
 **What is Syntax?**  
 Syntax refers to the set of rules for writing valid JavaScript code.
