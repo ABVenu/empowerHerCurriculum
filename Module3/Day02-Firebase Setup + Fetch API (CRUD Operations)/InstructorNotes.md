@@ -36,6 +36,9 @@ Firebase Realtime Database:
 ---
 
 ## 2. Firebase Realtime Database Setup
+> For better understanding of Firbase Setup refer this [LINK](https://live.masaischool.com/embed/video/34d84f76-2be0-451f-8d65-6f6bd3a04087)
+
+> Please Note: No Auth, Just Simple Firebase Setup
 
 ### Step 1: Create Firebase Project
 
