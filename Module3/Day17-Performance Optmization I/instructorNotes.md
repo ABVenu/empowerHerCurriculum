@@ -3,7 +3,7 @@
 # **Learning Objectives:**
 
 ---
-
+#### [Earlier Video For Ready Ref](https://live.masaischool.com/embed/video/511942b6-b47b-4280-a7db-4dffd2736b49)
 ## **Understand the Need for Performance Optimization**
 
 - Explain what performance means in a React application.
