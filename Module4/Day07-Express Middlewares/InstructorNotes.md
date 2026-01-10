@@ -67,9 +67,10 @@
 
 * Define **external middleware** as packages installed via NPM
 * Identify commonly used external middleware such as:
-
-  * `morgan` – request logging
-  * `cors` – Cross-Origin Resource Sharing
+  
+  * `morgan` – request logging (explain Orally)
+  * `cors` – Cross-Origin Resource Sharing (explain orally)
+  * `rate-limiter`- Demonstrate this (refer my middleware session for this)
 * Understand how external middleware integrates into Express applications
 * Explain why external middleware improves development speed and reliability
 
